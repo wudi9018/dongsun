@@ -1,1 +1,18 @@
 
+<!DOCTYPE html>
+<html>
+<head ><title>样式</title>
+<style type="text/css">
+
+ body {background-color:yellow;font-size:50px}
+ 
+ h1 {color:red;background-color:black}
+ p {color:blue}
+</style>
+</head>
+<body>
+<h1>我是大帅比</h1>
+<p>我是大帅吧</p>
+<a href="http://www.w3school.com.cn/html/html_links.asp" ><abbr title="w3school.com">W3SC</abbr></a>
+</body>
+</html>
